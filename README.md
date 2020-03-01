@@ -1,2 +1,2 @@
-# Data_Science_Projects
-This is an online portfolio of my data science adventures, explorations, and notes.
+# TORONTO NEIGHBORHOOD PROJECT
+This project is for the IBM Applied Data Science Capstone Toronto Clustering Project (week 3).
